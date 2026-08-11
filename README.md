@@ -45,12 +45,6 @@ Clone the repository:
 git clone https://github.com/Vtu29782/AI---Techniques.git
 ```
 
-Navigate to the project:
-
-```bash
-cd AI---Techniques
-```
-
 
 ## 👨‍💻 Author
 
