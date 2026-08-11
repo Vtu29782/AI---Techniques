@@ -1,4 +1,4 @@
-# AI---Techniques
+# AI---Techniques -- Task 4
 
 A collection of implementations and learning materials covering various **Artificial Intelligence techniques and algorithms**.
 
