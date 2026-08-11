@@ -51,11 +51,6 @@ Navigate to the project:
 cd AI---Techniques
 ```
 
-Run the Python programs using:
-
-```bash
-python filename.py
-```
 
 ## 👨‍💻 Author
 
